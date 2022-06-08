@@ -1,6 +1,7 @@
 {
     "countries": [
         {
+          "id": 1,
           "name": "Andorra",
           "code": "AD",
           "languages": [
@@ -10,6 +11,7 @@
           ]
         },
         {
+          "id": 2,
           "name": "United Arab Emirates",
           "code": "AE",
           "languages": [
@@ -19,6 +21,7 @@
           ]
         },
         {
+          "id": 3,
           "name": "Afghanistan",
           "code": "AF",
           "languages": [
@@ -34,79 +37,12 @@
           ]
         },
         {
+          "id": 4,
           "name": "Antigua and Barbuda",
           "code": "AG",
           "languages": [
             {
               "name": "English"
-            }
-          ]
-        },
-        {
-          "name": "Anguilla",
-          "code": "AI",
-          "languages": [
-            {
-              "name": "English"
-            }
-          ]
-        },
-        {
-          "name": "Albania",
-          "code": "AL",
-          "languages": [
-            {
-              "name": "Albanian"
-            }
-          ]
-        },
-        {
-          "name": "Armenia",
-          "code": "AM",
-          "languages": [
-            {
-              "name": "Armenian"
-            },
-            {
-              "name": "Russian"
-            }
-          ]
-        },
-        {
-          "name": "Angola",
-          "code": "AO",
-          "languages": [
-            {
-              "name": "Portuguese"
-            }
-          ]
-        },
-        {
-          "name": "Antarctica",
-          "code": "AQ",
-          "languages": []
-        },
-        {
-          "name": "Argentina",
-          "code": "AR",
-          "languages": [
-            {
-              "name": "Spanish"
-            },
-            {
-              "name": "Guarani"
-            }
-          ]
-        },
-        {
-          "name": "American Samoa",
-          "code": "AS",
-          "languages": [
-            {
-              "name": "English"
-            },
-            {
-              "name": "Samoan"
             }
           ]
         } 
